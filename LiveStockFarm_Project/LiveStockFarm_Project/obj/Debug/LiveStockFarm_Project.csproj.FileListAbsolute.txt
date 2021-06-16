@@ -1,0 +1,87 @@
+c:\users\haris sheikh\documents\visual studio 2013\Projects\LiveStockFarm_Project\LiveStockFarm_Project\bin\Debug\LiveStockFarm_Project.exe.config
+c:\users\haris sheikh\documents\visual studio 2013\Projects\LiveStockFarm_Project\LiveStockFarm_Project\bin\Debug\LiveStockFarm_Project.exe
+c:\users\haris sheikh\documents\visual studio 2013\Projects\LiveStockFarm_Project\LiveStockFarm_Project\bin\Debug\LiveStockFarm_Project.pdb
+c:\users\haris sheikh\documents\visual studio 2013\Projects\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.csprojResolveAssemblyReference.cache
+c:\users\haris sheikh\documents\visual studio 2013\Projects\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Form1.resources
+c:\users\haris sheikh\documents\visual studio 2013\Projects\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Properties.Resources.resources
+c:\users\haris sheikh\documents\visual studio 2013\Projects\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.csproj.GenerateResource.Cache
+c:\users\haris sheikh\documents\visual studio 2013\Projects\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.exe
+c:\users\haris sheikh\documents\visual studio 2013\Projects\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.pdb
+c:\users\haris sheikh\documents\visual studio 2013\Projects\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report12.resources
+C:\Users\Haris Sheikh\Documents\Visual Studio 2013\Projects\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report4.resources
+C:\Users\Haris Sheikh\Documents\Visual Studio 2013\Projects\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report2.resources
+C:\Users\Haris Sheikh\Documents\Visual Studio 2013\Projects\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report5.resources
+C:\Users\Haris Sheikh\Documents\Visual Studio 2013\Projects\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report6.resources
+C:\Users\Haris Sheikh\Documents\Visual Studio 2013\Projects\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report7.resources
+C:\Users\Haris Sheikh\documents\visual studio 2013\Projects\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report9.resources
+C:\Users\Haris Sheikh\documents\visual studio 2013\Projects\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report10.resources
+C:\Users\Haris Sheikh\documents\visual studio 2013\Projects\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report11.resources
+C:\Users\Haris Sheikh\documents\visual studio 2013\Projects\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report3.resources
+C:\Users\Haris Sheikh\documents\visual studio 2013\Projects\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report1.resources
+C:\Users\Haris Sheikh\Documents\Visual Studio 2013\Projects\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report8.resources
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\bin\Debug\LiveStockFarm_Project.exe.config
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\bin\Debug\LiveStockFarm_Project.exe
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\bin\Debug\LiveStockFarm_Project.pdb
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.csprojAssemblyReference.cache
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Form1.resources
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Properties.Resources.resources
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report1.resources
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report10.resources
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report11.resources
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report12.resources
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report2.resources
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report3.resources
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report4.resources
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report5.resources
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report6.resources
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report7.resources
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report8.resources
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report9.resources
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.csproj.GenerateResource.cache
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.csproj.CoreCompileInputs.cache
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.exe
+C:\Users\djole\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.pdb
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\bin\Debug\LiveStockFarm_Project.exe.config
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\bin\Debug\LiveStockFarm_Project.exe
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\bin\Debug\LiveStockFarm_Project.pdb
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Form1.resources
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Properties.Resources.resources
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report1.resources
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report10.resources
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report11.resources
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report12.resources
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report2.resources
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report3.resources
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report4.resources
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report5.resources
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report6.resources
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report7.resources
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report8.resources
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report9.resources
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.exe
+C:\Users\ASUS\Desktop\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.pdb
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Form1.resources
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Properties.Resources.resources
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report1.resources
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report10.resources
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report11.resources
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report12.resources
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report2.resources
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report3.resources
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report4.resources
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report5.resources
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report6.resources
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report7.resources
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report8.resources
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.Report9.resources
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.exe
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\obj\Debug\LiveStockFarm_Project.pdb
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\bin\Debug\LiveStockFarm_Project.exe.config
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\bin\Debug\LiveStockFarm_Project.exe
+C:\Users\ASUS\source\repos\LiveStockFarm_Project\LiveStockFarm_Project\bin\Debug\LiveStockFarm_Project.pdb
